@@ -25,7 +25,7 @@
     "@typescript-eslint/parser": "^8.59.3",
     "@vitest/coverage-v8": "^4.1.6",
     "@vitest/ui": "^4.1.6",
-    "eslint": "^8.57.0",
+    "eslint": "^10.6.0",
     "eslint-plugin-svelte": "^2.46.0",
     "jsdom": "^29.1.1",
     "lint-staged": "^17.0.4",
